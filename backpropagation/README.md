@@ -4,6 +4,10 @@ This repository contains my personal notes, code snippets, and Jupyter notebooks
 
 The goal of this repository is to build an intuitive, foundational understanding of automatic differentiation, multi-layer perceptrons (MLPs), loss functions, and tensor gradients before transitioning to production frameworks like PyTorch.
 
+## 🎥 References
+
+* **Video Tutorial:** [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=lMCYJN-dvAkt8q8V)
+
 ---
 
 ## 📚 Learning Progression & Notebooks
